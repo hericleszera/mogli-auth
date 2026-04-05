@@ -15,6 +15,11 @@
             "hwid": "C5FC587C1CE6A62691A3B68FCB1BC8E607846AD2AE783F03D802568E0F67A133",
             "name": "IPSWICH",
             "expires": "2026-04-21"
+        },
+        {
+            "hwid": "2026siano",
+            "name": "Siano Consultoria LTDA",
+            "expires": "2026-04-21"
         }
     ]
 }
