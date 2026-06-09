@@ -5,6 +5,11 @@
             "hwid": "624fa241886ac1d73e2dbe96416b2bfd",
             "name": "KASEYA-DEV",
             "expires": "2099-12-31"
+        },
+        {
+            "hwid": "c984c9ba7670969ae197fed7b870e6aa",
+            "name": "Flavin",
+            "expires": "2099-12-31"
         }
     ]
 }
