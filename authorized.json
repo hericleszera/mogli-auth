@@ -2,24 +2,9 @@
     "version": 1,
     "authorized": [
         {
-            "hwid": "9867CBC3FC08CC0597D4C02756058F851BF6C07A23F7B913AA900F280745E7A2",
-            "name": "Oliveira",
-            "expires": "2099-12-31"
-        },
-        {
-            "hwid": "624fa241886ac1d73e2dbe96416b2bfd",
+            "hwid": "624fa241886ac1d73e2dbe96416b2bf",
             "name": "KASEYA-DEV",
             "expires": "2099-12-31"
-        },
-        {
-            "hwid": "C5FC587C1CE6A62691A3B68FCB1BC8E607846AD2AE783F03D802568E0F67A133",
-            "name": "IPSWICH",
-            "expires": "2026-04-21"
-        },
-        {
-            "hwid": "2026-SIANO",
-            "name": "Siano Consultoria LTDA",
-            "expires": "2099-04-21"
         }
     ]
 }
