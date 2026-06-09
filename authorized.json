@@ -10,6 +10,11 @@
             "hwid": "c984c9ba7670969ae197fed7b870e6aa",
             "name": "Flavin",
             "expires": "2099-12-31"
+        },
+        {
+            "hwid": "e761becf0d21ee6db7f2286a3b97a24a",
+            "name": "Droyd",
+            "expires": "2099-12-31"
         }
     ]
 }
