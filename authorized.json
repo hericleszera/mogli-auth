@@ -15,6 +15,11 @@
             "hwid": "e761becf0d21ee6db7f2286a3b97a24a",
             "name": "Droyd",
             "expires": "2099-12-31"
+        },
+        {
+            "hwid": "9686e34c0160aa5b7520281ceccfa1b8",
+            "name": "KASEYA-TEST",
+            "expires": "2099-12-31"
         }
     ]
 }
