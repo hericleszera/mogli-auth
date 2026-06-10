@@ -30,6 +30,11 @@
             "hwid": "48d742807ca91da3874d9ac0a1e22a55",
             "name": "PODE-PINTO-MOLE",
             "expires": "2099-12-31"
+        },
+        {
+            "hwid": "66012561d242c45ae1e5e3b09fa4a73c",
+            "name": "NICKE-LODEON",
+            "expires": "2099-12-31"
         }
     ]
 }
