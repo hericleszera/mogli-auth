@@ -20,6 +20,16 @@
             "hwid": "9686e34c0160aa5b7520281ceccfa1b8",
             "name": "KASEYA-TEST",
             "expires": "2099-12-31"
+        },
+        {
+            "hwid": "fcedd48d5e7907a2df67ef40e5aabb81",
+            "name": "PIPES-MATA-PORCO",
+            "expires": "2099-12-31"
+        },
+        {
+            "hwid": "48d742807ca91da3874d9ac0a1e22a55",
+            "name": "PODE-PINTO-MOLE",
+            "expires": "2099-12-31"
         }
     ]
 }
