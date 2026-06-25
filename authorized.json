@@ -9,12 +9,12 @@
         {
             "hwid": "c984c9ba7670969ae197fed7b870e6aa",
             "name": "Flavin",
-            "expires": "2099-12-31"
+            "expires": "2000-12-31"
         },
         {
             "hwid": "109f3d5d82b6db28e9d6c129d612a685",
             "name": "Droyd",
-            "expires": "2099-12-31"
+            "expires": "2000-12-31"
         },
         {
             "hwid": "9686e34c0160aa5b7520281ceccfa1b8",
@@ -24,12 +24,12 @@
         {
             "hwid": "cc899f88bc51c9888b751f70acb6429f",
             "name": "PIPES-BROXA",
-            "expires": "2099-12-31"
+            "expires": "2000-12-31"
         },
         {
             "hwid": "a066c22941756289858036a9576dbfa6",
             "name": "PODE-PINTO-MOLE",
-            "expires": "2099-12-31"
+            "expires": "2000-12-31"
         },
         {
             "hwid": "b92926c6bac7ed8f792007145234ecf2",
@@ -39,7 +39,7 @@
         {
             "hwid": "c9ca110354a00d7045a6d9af05787659",
             "name": "GHOULZADAS-FILHOD-OKASEYA",
-            "expires": "2099-12-31"
+            "expires": "2000-12-31"
         }
     ]
 }
