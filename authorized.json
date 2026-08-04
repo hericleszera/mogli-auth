@@ -5,6 +5,11 @@
             "hwid": "c0dbbe995690fd5586c993cddf76c025",
             "name": "KASEYA-DEV",
             "expires": "2099-12-31"
+        },
+        {
+            "hwid": "b92926c6bac7ed8f792007145234ecf2",
+            "name": "NIKELODEON",
+            "expires": "2099-12-31"
         }
     ]
 }
