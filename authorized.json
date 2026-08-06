@@ -2,7 +2,7 @@
     "version": 1,
     "authorized": [
         {
-            "hwid": "730ea178bec7ed6afed34ca7317d530f825f3bdd7d17dc1c80a92016fb90f533",
+            "hwid": "",
             "name": "KASEYA-DEV",
             "expires": "2099-12-31"
         },
