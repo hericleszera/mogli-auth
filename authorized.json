@@ -10,6 +10,16 @@
             "hwid": "730ea178bec7ed6afed34ca7317d530f825f3bdd7d17dc1c80a92016fb90f533",
             "name": "KASEYAGOD",
             "expires": "2099-12-31"
+        },
+        {
+            "hwid": "bf24867417025b02d452b4c90670723d995cc2075185621d057034e9ca856ef8",
+            "name": "JOHON-MAMADOR",
+            "expires": "2099-12-31"
+        },
+        {
+            "hwid": "ff9f48da580fad7a98d70b16ee02ef091bc5a8e504583ca7ba8d9265673fd157",
+            "name": "GOZU-DO-PCC",
+            "expires": "2099-12-31"
         }
     ]
 }
