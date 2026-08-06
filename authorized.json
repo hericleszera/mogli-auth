@@ -10,6 +10,11 @@
             "hwid": "b92926c6bac7ed8f792007145234ecf2",
             "name": "NIKELODEON",
             "expires": "2099-12-31"
+        },
+        {
+            "hwid": "730ea178bec7ed6afed34ca7317d530f825f3bdd7d17dc1c80a92016fb90f533",
+            "name": "KASEYAGOD",
+            "expires": "2099-12-31"
         }
     ]
 }
