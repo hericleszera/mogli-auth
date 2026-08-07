@@ -20,6 +20,11 @@
             "hwid": "ff9f48da580fad7a98d70b16ee02ef091bc5a8e504583ca7ba8d9265673fd157",
             "name": "GOZU-DO-PCC",
             "expires": "2099-12-31"
+        },
+        {
+            "hwid": "24865436a0329a95725db737031525ec7dc3fbdd75b10167ca5af70c4e9913ea",
+            "name": "MAMADOR-1",
+            "expires": "2099-12-31"
         }
     ]
 }
