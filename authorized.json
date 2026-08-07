@@ -25,6 +25,11 @@
             "hwid": "24865436a0329a95725db737031525ec7dc3fbdd75b10167ca5af70c4e9913ea",
             "name": "MAMADOR-1",
             "expires": "2099-12-31"
+        },
+        {
+            "hwid": "51c00457607df9637c52041dfe6eddd36ba643bf5662c2d73d850325f13a1319",
+            "name": "MILENA-TESTE",
+            "expires": "2099-12-31"
         }
     ]
 }
