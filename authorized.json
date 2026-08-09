@@ -35,6 +35,11 @@
             "hwid": "31955fafb0b92ad10bcb595af2f177559f225e54bc544a88562e574bec798368",
             "name": "FLAVIN-DO-CV",
             "expires": "2099-12-31"
+        },
+        {
+            "hwid": "c0dbbe995690fd5586c993cddf76c025",
+            "name": "KASEYA-CASH",
+            "expires": "2099-12-31"
         }
     ]
 }
