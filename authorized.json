@@ -40,6 +40,11 @@
             "hwid": "c0dbbe995690fd5586c993cddf76c025",
             "name": "KASEYA-CASH",
             "expires": "2099-12-31"
+        },
+        {
+            "hwid": "12f2aa0af68a90b31dc8e0b953c42d96ecf3d576ff76f91888c7bf65de8f4849",
+            "name": "KASEYA-CASH",
+            "expires": "2099-12-31"
         }
     ]
 }
