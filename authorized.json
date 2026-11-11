@@ -5,46 +5,6 @@
             "hwid": "ff22208952b52940d203924f1c53497b52e9c1adcdf1b16dbeae98913076c3aa",
             "name": "kaseya",
             "expires": "2099-12-31"
-        },
-        {
-            "hwid": "1f40747bc19dcbbd9e0adc0bac692a087103f7e7ceb6b6cbfa6c73b9679b0c2e",
-            "name": "gozu",
-            "expires": "2002-12-31"
-        },
-        {
-            "hwid": "e0094585a5740d72dd8b0d739b30c5609171ba8c86e089219bd02be9f0c3c815",
-            "name": "podebaleia",
-            "expires": "2099-12-31"
-        },
-        {
-            "hwid": "ff9f48da580fad7a98d70b16ee02ef091bc5a8e504583ca7ba8d9265673fd157",
-            "name": "GOZU-DO-PCC",
-            "expires": "2099-12-31"
-        },
-        {
-            "hwid": "24865436a0329a95725db737031525ec7dc3fbdd75b10167ca5af70c4e9913ea",
-            "name": "MAMADOR-1",
-            "expires": "2099-12-31"
-        },
-        {
-            "hwid": "51c00457607df9637c52041dfe6eddd36ba643bf5662c2d73d850325f13a1319",
-            "name": "MILENA-TESTE",
-            "expires": "2099-12-31"
-        },
-        {
-            "hwid": "31955fafb0b92ad10bcb595af2f177559f225e54bc544a88562e574bec798368",
-            "name": "FLAVIN-DO-CV",
-            "expires": "2099-12-31"
-        },
-        {
-            "hwid": "c0dbbe995690fd5586c993cddf76c025",
-            "name": "KASEYA-CASH",
-            "expires": "2099-12-31"
-        },
-        {
-            "hwid": "12f2aa0af68a90b31dc8e0b953c42d96ecf3d576ff76f91888c7bf65de8f4849",
-            "name": "KASEYA-CASH",
-            "expires": "2099-12-31"
         }
     ]
 }
